@@ -1,5 +1,5 @@
 # React + Vite
-#themeswitcher
+# themeswitcher
 Description
 This is a simple React application showcasing theming functionality using a custom theme context. Users can toggle between light and dark modes, and the selected theme is applied throughout the app.
 
